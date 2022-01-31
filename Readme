@@ -1,0 +1,2 @@
+This repository includes the quantum federated datasets generated in the work https://arxiv.org/abs/2106.00005
+The format of the datasets is HDF5 files.
